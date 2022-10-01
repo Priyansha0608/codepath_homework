@@ -6,4 +6,4 @@
 
 ### Milestones of Excercise
 
-<img src="milestone.gif" alt="Milestones of Excercise">
+<img src="milestones.gif" alt="Milestones of Excercise">
